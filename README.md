@@ -1,8 +1,12 @@
-# Ant Design Pro
+# 🐙 Octopus Movies 🎬
 
-This project is initialized with [Ant Design Pro](https://pro.ant.design). Follow is the quick guide for how to use.
+Octopus Movies(章鱼电影 in Chinese)is a minimal web application built with React.js, and also the front-end of data warehouse course project.
 
-## Environment Prepare
+## 👀 Quick Preview [![Netlify Status](https://api.netlify.com/api/v1/badges/2799c734-2691-4877-bfd9-3c2cdde87352/deploy-status)](https://app.netlify.com/sites/kind-wing-61f0b4/deploys)
+
+Online Demo(without data): https://octopusmovies.netlify.app/
+
+## 🤖️ Environment Prepare
 
 Install `node_modules`:
 
@@ -16,11 +20,7 @@ or
 yarn
 ```
 
-## Provided Scripts
-
-Ant Design Pro provides some useful script to help you quick start and build with web project, code style check and test.
-
-Scripts provided in `package.json`. It's safe to modify or add additional script:
+## 🏃 Provided Scripts
 
 ### Start project
 
@@ -34,24 +34,5 @@ npm start
 npm run build
 ```
 
-### Check code style
 
-```bash
-npm run lint
-```
 
-You can also use script to auto fix some lint error:
-
-```bash
-npm run lint:fix
-```
-
-### Test code
-
-```bash
-npm test
-```
-
-## More
-
-You can view full document on our [official website](https://pro.ant.design). And welcome any feedback in our [github](https://github.com/ant-design/ant-design-pro).
